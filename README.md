@@ -1,8 +1,6 @@
 # Soc_App_V1.0
 Basic chat application using java sockets
-
-R.G.D. Nayomal
-IT15027948
+@rama41222
 SoC Chat App V 1.0
 Developed for Distrubuted Systems module
 OS requirements : The system is platform independant.
@@ -42,4 +40,4 @@ Recompliation
 java -jar example.jr
 
 
-
+https://rama41222.blogspot.com/2017/03/java-sockets-lets-build-chat-application.html
